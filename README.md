@@ -1,12 +1,4 @@
-# Team Information
-- **Name:** R Yeeshu Dhurandhar, Abhiram Gottumukkala
-- **AndrewID:** rdhurand, agottumu
-- **Course:** 14-736 Distributed Systems: Techniques, Infrastructure, and Services
-- **Mentor:** Prof. Patrick Tague 
-
-# Lab 3: Hierarchical Key-Value Cluster (HKVC)
-
-## Overview
+# Raft-Backed Hierarchical Key-Value Cluster
 
 This project implements a **Hierarchical Key-Value Cluster (HKVC)** in Go. The system combines ideas from a distributed file system and a distributed key-value store:
 
@@ -23,6 +15,12 @@ The implementation is divided into three main packages:
 - `hkvc`: the hierarchical key-value cluster built on top of `remote` and `raft`
 
 ---
+
+## Team Information
+- **Name:** R Yeeshu Dhurandhar, Abhiram Gottumukkala
+- **AndrewID:** rdhurand, agottumu
+- **Course:** 14-736 Distributed Systems: Techniques, Infrastructure, and Services
+- **Mentor:** Prof. Patrick Tague
 
 ## Directory Structure
 
