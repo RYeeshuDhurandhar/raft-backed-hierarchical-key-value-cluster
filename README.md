@@ -1,4 +1,4 @@
-# Raft-Backed Hierarchical Key-Value Cluster
+# Raft-Based Hierarchical Key-Value Cluster
 
 This project implements a **Hierarchical Key-Value Cluster (HKVC)** in Go. The system combines ideas from a distributed file system and a distributed key-value store:
 
